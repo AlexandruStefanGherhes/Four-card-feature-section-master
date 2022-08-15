@@ -78,15 +78,18 @@ header {
 }
 
 header h1 {
-  font-size: 25px;
+  font-size: 24px;
   font-weight: normal;
   color: var(--grayish-blue);
+  font-family: "Poppins";
+  font-weight: 100;
 }
 
 header h2 {
-  font-size: 25px;
+  font-size: 24px;
   color: var(--very-dark-blue);
   margin-bottom: 15px;
+  font-family: "Poppins";
 }
 
 header h3 {
